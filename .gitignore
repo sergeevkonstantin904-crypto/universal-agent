@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+universal_agent_final.pt
+*.pt
+.DS_Store
